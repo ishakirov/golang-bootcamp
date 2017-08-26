@@ -1,1 +1,1 @@
-[go report](https://goreportcard.com/badge/github.com/ishakirov/golang-bootcamp)
+![go report](https://goreportcard.com/badge/github.com/ishakirov/golang-bootcamp)
